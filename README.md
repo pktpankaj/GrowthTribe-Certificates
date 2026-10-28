@@ -22,7 +22,7 @@ This portfolio brings together my completed GrowthTribe training, with four conn
 
 Understanding AI in a business context, developing AI literacy and considering responsible adoption. Exploring emerging technology with attention to its purpose and limits.
 
-**Training:**AI Literacy & Compliance · AI for Business · Web 3 Foundations
+**Training:** AI Literacy & Compliance · AI for Business · Web 3 Foundations
 
 </td>
 <td width="50%" valign="top">
@@ -31,7 +31,7 @@ Understanding AI in a business context, developing AI literacy and considering r
 
 Working from a clear question, making sense of available data and explaining findings in a way that helps people decide what to do next.
 
-**Training:**Business Analytics · Data Fundamentals · Data Visualisation & Storytelling
+**Training:** Business Analytics · Data Fundamentals · Data Visualisation & Storytelling
 
 </td>
 </tr>
@@ -42,7 +42,7 @@ Working from a clear question, making sense of available data and explaining fin
 
 Connecting audience understanding, marketing activity and conversion improvement. Bringing a commercial perspective to the relationship between marketing and sales.
 
-**Training:**Growth Marketing · Digital Marketing · Conversion Rate Optimisation · Sales & Business Development
+**Training:** Growth Marketing · Digital Marketing · Conversion Rate Optimisation · Sales & Business Development
 
 </td>
 <td width="50%" valign="top">
@@ -51,7 +51,7 @@ Connecting audience understanding, marketing activity and conversion improvement
 
 Understanding the user problem, shaping product priorities and organising delivery. Helping people work together through clear communication and practical project management.
 
-**Training:**Design Thinking · Digital Product Management & Strategy · Agile Project Management · Project Management · Digital Leadership · Digital Communication
+**Training:** Design Thinking · Digital Product Management & Strategy · Agile Project Management · Project Management · Digital Leadership · Digital Communication
 
 </td>
 </tr>
