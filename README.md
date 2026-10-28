@@ -1,4 +1,4 @@
-![Pankaj Thakur — AI. Data. Growth. Ideas into practice.](./assets/portfolio-hero.gif)
+![Pankaj Thakur — AI. Data. Growth. Ideas into practice.](./assets/editorial-header.svg)
 
 # AI, data, growth & digital leadership
 
@@ -10,7 +10,7 @@ This portfolio brings together my completed GrowthTribe training, with four conn
 
 [Explore skills](#skills-at-a-glance) · [How I work](#how-i-work) · [Where I can help](#where-i-can-help) · [Certificate library](#certificate-library) · [Certificate previews](#certificate-previews)
 
-![Animated plum, mint and peach transition between portfolio sections](./assets/section-flow.gif)
+---
 
 ## Skills at a glance
 
@@ -18,40 +18,40 @@ This portfolio brings together my completed GrowthTribe training, with four conn
 <tr>
 <td width="50%" valign="top">
 
-![AI & emerging technology](./assets/ai-card.svg)
+![AI & emerging technology](./assets/ai-editorial.svg)
 
 Understanding AI in a business context, developing AI literacy and considering responsible adoption. Exploring emerging technology with attention to its purpose and limits.
 
-**Training:** AI Literacy & Compliance · AI for Business · Web 3 Foundations
+**Training:**AI Literacy & Compliance · AI for Business · Web 3 Foundations
 
 </td>
 <td width="50%" valign="top">
 
-![Data & business insight](./assets/data-card.svg)
+![Data & business insight](./assets/data-editorial.svg)
 
 Working from a clear question, making sense of available data and explaining findings in a way that helps people decide what to do next.
 
-**Training:** Business Analytics · Data Fundamentals · Data Visualisation & Storytelling
+**Training:**Business Analytics · Data Fundamentals · Data Visualisation & Storytelling
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-![Growth & conversion](./assets/growth-card.svg)
+![Growth & conversion](./assets/growth-editorial.svg)
 
 Connecting audience understanding, marketing activity and conversion improvement. Bringing a commercial perspective to the relationship between marketing and sales.
 
-**Training:** Growth Marketing · Digital Marketing · Conversion Rate Optimisation · Sales & Business Development
+**Training:**Growth Marketing · Digital Marketing · Conversion Rate Optimisation · Sales & Business Development
 
 </td>
 <td width="50%" valign="top">
 
-![Product & digital leadership](./assets/delivery-card.svg)
+![Product & digital leadership](./assets/delivery-editorial.svg)
 
 Understanding the user problem, shaping product priorities and organising delivery. Helping people work together through clear communication and practical project management.
 
-**Training:** Design Thinking · Digital Product Management & Strategy · Agile Project Management · Project Management · Digital Leadership · Digital Communication
+**Training:**Design Thinking · Digital Product Management & Strategy · Agile Project Management · Project Management · Digital Leadership · Digital Communication
 
 </td>
 </tr>
@@ -59,7 +59,7 @@ Understanding the user problem, shaping product priorities and organising delive
 
 ## How I work
 
-![Four connected steps: discover, design, test and improve](./assets/working-process.gif)
+![Four connected steps: discover, design, test and improve](./assets/editorial-process.gif)
 
 **Discover the problem.** Understand the user, the business goal and the evidence available.
 
@@ -69,43 +69,43 @@ Understanding the user problem, shaping product priorities and organising delive
 
 **Improve from what we learn.** Use findings and feedback to refine the work and decide the next step.
 
-![Animated transition between working process and areas of support](./assets/section-flow.gif)
+---
 
 ## Where I can help
 
 | Area of support | What the work can include |
 | --- | --- |
-| **🟪 AI adoption planning** | Mapping a business task, considering where AI may help and defining human review points. |
-| **🟩 Data and reporting clarity** | Framing business questions, identifying useful measures and explaining findings clearly. |
-| **🟧 Growth and conversion planning** | Reviewing a customer journey, shaping campaign priorities and outlining focused improvement ideas. |
-| **🩷 Product and team delivery** | Clarifying the user problem, organising priorities and building a practical delivery plan. |
+| **AI adoption planning**| Mapping a business task, considering where AI may help and defining human review points. |
+| **Data and reporting clarity**| Framing business questions, identifying useful measures and explaining findings clearly. |
+| **Growth and conversion planning**| Reviewing a customer journey, shaping campaign priorities and outlining focused improvement ideas. |
+| **Product and team delivery**| Clarifying the user problem, organising priorities and building a practical delivery plan. |
 
 The skills above describe my areas of focus. The certificates below document completed training in the related subjects.
 
-![Animated transition into the certificate library](./assets/section-flow.gif)
+---
 
 ## Certificate library
 
-All 16 certificates were issued between **28 June and 3 July 2025**. Each entry includes the original PDF and the issuer-page link recorded in this repository.
+Each of the 16 entries includes the original PDF and the issuer-page link recorded in this repository.
 
-| Completed training | Issued | Original | Issuer page |
-| --- | --- | --- | --- |
-| AI Literacy & Compliance | 3 Jul 2025 | [PDF](./AI%20Literacy%20%26%20Compliance.pdf) | [Credential](https://learn.growthtribe.io/certificates/ytfjpnqmob) |
-| AI for Business | 2 Jul 2025 | [PDF](./AI%20for%20Business.pdf) | [Credential](https://learn.growthtribe.io/certificates/jblxvuxpfg) |
-| Web 3 Foundations | 28 Jun 2025 | [PDF](./Web%203%20Foundations.pdf) | [Credential](https://learn.growthtribe.io/certificates/mxiw6keknr) |
-| Business Analytics | 3 Jul 2025 | [PDF](./Business%20Analytics.pdf) | [Credential](https://learn.growthtribe.io/certificates/zym4r9kjdt) |
-| Data Fundamentals | 2 Jul 2025 | [PDF](./Data%20Fundamentals.pdf) | [Credential](https://learn.growthtribe.io/certificates/0kogbpirq7) |
-| Data Visualisation & Storytelling | 2 Jul 2025 | [PDF](./Data%20Visualisation%20%26%20Storytelling.pdf) | [Credential](https://learn.growthtribe.io/certificates/apnqwuaqa3) |
-| Growth Marketing | 1 Jul 2025 | [PDF](./Growth%20Marketing%20.pdf) | [Credential](https://learn.growthtribe.io/certificates/usrvbtebi3) |
-| Digital Marketing | 2 Jul 2025 | [PDF](./Digital%20Marketing.pdf) | [Credential](https://learn.growthtribe.io/certificates/vzcczk4ffl) |
-| Conversion Rate Optimisation | 3 Jul 2025 | [PDF](./Conversion%20Rate%20Optimisation.pdf) | [Credential](https://learn.growthtribe.io/certificates/677dvpf8ae) |
-| Sales & Business Development | 29 Jun 2025 | [PDF](./Sales-Business-Development.pdf) | [Credential](https://learn.growthtribe.io/certificates/zlsb08brtf) |
-| Design Thinking | 28 Jun 2025 | [PDF](./Design%20Thinking.pdf) | [Credential](https://learn.growthtribe.io/certificates/bfizvpadz3) |
-| Digital Product Management & Strategy | 29 Jun 2025 | [PDF](./Digital%20Product%20Management%20%26%20Strategy.pdf) | [Credential](https://learn.growthtribe.io/certificates/fnmumpueyv) |
-| Agile Project Management | 3 Jul 2025 | [PDF](./Agile%20Project%20Management.pdf) | [Credential](https://learn.growthtribe.io/certificates/wjup2clzj9) |
-| Project Management | 1 Jul 2025 | [PDF](./Project%20Management.pdf) | [Credential](https://learn.growthtribe.io/certificates/x1d1yqm21e) |
-| Digital Leadership | 2 Jul 2025 | [PDF](./Digital%20Leadership.pdf) | [Credential](https://learn.growthtribe.io/certificates/iuptiuoilj) |
-| Digital Communication | 2 Jul 2025 | [PDF](./Digital%20Communication.pdf) | [Credential](https://learn.growthtribe.io/certificates/k9al4uczzu) |
+| Completed training | Original | Issuer page |
+| --- | --- | --- |
+| AI Literacy & Compliance | [PDF](./AI%20Literacy%20%26%20Compliance.pdf) | [Credential](https://learn.growthtribe.io/certificates/ytfjpnqmob) |
+| AI for Business | [PDF](./AI%20for%20Business.pdf) | [Credential](https://learn.growthtribe.io/certificates/jblxvuxpfg) |
+| Web 3 Foundations | [PDF](./Web%203%20Foundations.pdf) | [Credential](https://learn.growthtribe.io/certificates/mxiw6keknr) |
+| Business Analytics | [PDF](./Business%20Analytics.pdf) | [Credential](https://learn.growthtribe.io/certificates/zym4r9kjdt) |
+| Data Fundamentals | [PDF](./Data%20Fundamentals.pdf) | [Credential](https://learn.growthtribe.io/certificates/0kogbpirq7) |
+| Data Visualisation & Storytelling | [PDF](./Data%20Visualisation%20%26%20Storytelling.pdf) | [Credential](https://learn.growthtribe.io/certificates/apnqwuaqa3) |
+| Growth Marketing | [PDF](./Growth%20Marketing%20.pdf) | [Credential](https://learn.growthtribe.io/certificates/usrvbtebi3) |
+| Digital Marketing | [PDF](./Digital%20Marketing.pdf) | [Credential](https://learn.growthtribe.io/certificates/vzcczk4ffl) |
+| Conversion Rate Optimisation | [PDF](./Conversion%20Rate%20Optimisation.pdf) | [Credential](https://learn.growthtribe.io/certificates/677dvpf8ae) |
+| Sales & Business Development | [PDF](./Sales-Business-Development.pdf) | [Credential](https://learn.growthtribe.io/certificates/zlsb08brtf) |
+| Design Thinking | [PDF](./Design%20Thinking.pdf) | [Credential](https://learn.growthtribe.io/certificates/bfizvpadz3) |
+| Digital Product Management & Strategy | [PDF](./Digital%20Product%20Management%20%26%20Strategy.pdf) | [Credential](https://learn.growthtribe.io/certificates/fnmumpueyv) |
+| Agile Project Management | [PDF](./Agile%20Project%20Management.pdf) | [Credential](https://learn.growthtribe.io/certificates/wjup2clzj9) |
+| Project Management | [PDF](./Project%20Management.pdf) | [Credential](https://learn.growthtribe.io/certificates/x1d1yqm21e) |
+| Digital Leadership | [PDF](./Digital%20Leadership.pdf) | [Credential](https://learn.growthtribe.io/certificates/iuptiuoilj) |
+| Digital Communication | [PDF](./Digital%20Communication.pdf) | [Credential](https://learn.growthtribe.io/certificates/k9al4uczzu) |
 
 ## Certificate previews
 
